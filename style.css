@@ -1,6 +1,9 @@
-h1{
-  font-size: 60px; color: rgba(100, 0, 0, 0.5); font-family: cursive; text-align: center;
+body{
+  background-color: #d2a391
 }
-img porco.webp (80, 0, 0.5)
-img porcorolete.jpg (80, 0, 0.5)
-img
+
+h1 {font-size: 60px; color:#bdb8ad (100, 0, 0, 0.5); font-family: cursive; text-align: center;
+}
+img {
+  width: 30%
+}
